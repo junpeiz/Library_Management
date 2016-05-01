@@ -21,8 +21,8 @@
 
 string host = "127.0.0.1";
 string user = "root";
-string pwd = "zhouJUNpei";
-string dbn = "library_manage";
+string pwd = "";    //Your own password
+string dbn = "";    //Your database's name
 CDataBase *db = new CDataBase(host, user, pwd, dbn);
 
 MainWindow::MainWindow(QWidget *parent) :
