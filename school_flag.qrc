@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>School_flag.png</file>
+    </qresource>
+</RCC>
